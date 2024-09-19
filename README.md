@@ -7,7 +7,7 @@ This repository contains SQL queries for analyzing and retrieving insights from 
 
 ## Database Setup
 
-1. **Create Database**  
+1. **Create Database** 
    Create the `PizzaHut` database:
    ```sql
    CREATE DATABASE PIZZAHUT;
