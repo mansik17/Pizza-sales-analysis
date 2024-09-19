@@ -181,4 +181,3 @@ This repository contains SQL queries for analyzing and retrieving insights from 
 
 ```
 
-You can copy this into your GitHub repository `README.md` file to provide a detailed description of your PizzaHut database and its SQL operations.
